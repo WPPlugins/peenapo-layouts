@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'peenapo-layouts-icons';
+  src:  url('fonts/peenapo-layouts-icons.eot?9n5p1y');
+  src:  url('fonts/peenapo-layouts-icons.eot?9n5p1y#iefix') format('embedded-opentype'),
+    url('fonts/peenapo-layouts-icons.ttf?9n5p1y') format('truetype'),
+    url('fonts/peenapo-layouts-icons.woff?9n5p1y') format('woff'),
+    url('fonts/peenapo-layouts-icons.svg?9n5p1y#peenapo-layouts-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="pl-icon-"], [class*=" pl-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'peenapo-layouts-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pl-icon-plus:before {
+  content: "\e90c";
+}
+.pl-icon-grid:before {
+  content: "\e90b";
+}
+.pl-icon-page:before {
+  content: "\e90a";
+}
+.pl-icon-trash-2:before {
+  content: "\e909";
+}
+.pl-icon-column-add:before {
+  content: "\e906";
+}
+.pl-icon-lock:before {
+  content: "\e907";
+}
+.pl-icon-unlock:before {
+  content: "\e908";
+}
+.pl-icon-trash:before {
+  content: "\e902";
+}
+.pl-icon-import:before {
+  content: "\e903";
+}
+.pl-icon-duplicate:before {
+  content: "\e904";
+}
+.pl-icon-columns:before {
+  content: "\e905";
+}
+.pl-icon-move:before {
+  content: "\e901";
+}
+.pl-icon-edit:before {
+  content: "\e900";
+}

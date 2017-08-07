@@ -1,0 +1,2162 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Peenapo Layouts\n"
+"POT-Creation-Date: 2017-06-29 20:05+0300\n"
+"PO-Revision-Date: 2017-06-29 20:05+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: peenapo-layouts.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: core/admin/class.Playouts-Admin-Layouts.php:27
+#: core/admin/class.Playouts-Admin-Map.php:85
+#: core/class.Playouts-Element.php:29
+#: templates/admin/settings/option-tabs/general.php:4
+msgid "General"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Layouts.php:101
+msgid "About"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Layouts.php:120
+msgid "About 2"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Layouts.php:139
+msgid "Heading Text with Video Modal"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Layouts.php:158
+msgid "Split Page"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Layouts.php:177
+msgid "Full-Height Welcome Text"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Layouts.php:196
+msgid "Auto-Type Welcome Text"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Layouts.php:215
+msgid "Pricing Table"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Layouts.php:234
+msgid "Full-Width Slider"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Layouts.php:253
+msgid "Text Slider"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Layouts.php:272
+msgid "Text with Gradient"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Layouts.php:291
+msgid "Boxed Texts with Icon"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Layouts.php:310
+msgid "Gradient Icon with Text"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Layouts.php:329
+msgid "Welcome Text with Full-Screen Video"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Layouts.php:348
+msgid "Notion Boxes"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Layouts.php:367
+msgid "Numbers Counter"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Map.php:104
+msgid "Press Ok to delete all the elements, cancel to leave"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Map.php:105
+#: core/admin/class.Playouts-Admin-Modal.php:223
+#: core/admin/class.Playouts-Admin-Modal.php:275
+#: core/admin/class.Playouts-Admin-Modal.php:332
+msgid "All"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Map.php:106
+#: core/admin/class.Playouts-Admin-Map.php:108
+#: core/admin/class.Playouts-Admin-Settings.php:106
+msgid "Options"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Map.php:107
+msgid "&larr;&nbsp; Back to parent element"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Map.php:110
+msgid "Empty Content?"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Map.php:111
+#: core/admin/class.Playouts-Admin-Map.php:113
+msgid "Are you sure you want to take this action?"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Map.php:112
+msgid "Remove Module?"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Map.php:116
+msgid "The module \"{{value}}\" was not found!"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Map.php:117
+msgid "The template \"{{value}}\" was not found!"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Map.php:118
+msgid "The module \"{{value}}\" does not have a template!"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Map.php:119
+msgid "Layout cannot be empty!"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Map.php:120
+msgid "The module was not found in the mapping!"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Map.php:121
+msgid "Bad hex \"{{value}}\"!"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Modal.php:210
+msgid "Modules"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Modal.php:220
+#: core/admin/class.Playouts-Admin-Modal.php:272
+#: core/admin/class.Playouts-Admin-Modal.php:329
+msgid "Sort by"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Modal.php:262
+#: core/admin/class.Playouts-Admin.php:183
+msgid "Layouts"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Modal.php:317
+#: core/admin/class.Playouts-Admin-Settings.php:60
+#: core/admin/class.Playouts-Admin-Settings.php:61
+msgid "Custom Layouts"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Settings.php:40
+msgid "Peenapo Panel"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: core/admin/class.Playouts-Admin-Settings.php:41
+#: core/admin/class.Playouts-Admin.php:310
+msgid "Peenapo Layouts"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Settings.php:51
+msgid "Peenapo Layouts Settings Panel"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Settings.php:52
+#: core/admin/class.Playouts-Admin.php:555
+msgid "Settings"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Settings.php:107
+#: templates/admin/settings/option-tabs/fonts.php:4
+msgid "Fonts"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Settings.php:117
+msgid "Not complete"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Settings.php:118
+msgid "Complete"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Settings.php:119
+msgid "API Connection: Disconnected"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Settings.php:120
+msgid "API Connection: Connected"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Settings.php:121
+msgid "Not Imported"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Settings.php:122
+msgid "Imported"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Settings.php:123
+msgid "RECOMMENDED"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin-Settings.php:178
+msgid "Manage Layout Categories"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:121
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:122
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:123
+msgid "Search Categories"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:124
+msgid "Popular Categories"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:125
+msgid "All Categories"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:128
+msgid "Edit Category"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:129
+msgid "Update Category"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:130
+msgid "Add New Category"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:131
+msgid "New Category Name"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:132
+msgid "Separate categories with commas"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:133
+msgid "Add or remove categories"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:134
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:135
+msgid "No categories found."
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:136
+msgid "Categories"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:152
+msgid "Layout View"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:166
+msgctxt "post type general name"
+msgid "Layouts"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:167
+msgctxt "post type singular name"
+msgid "Layout"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:168
+msgctxt "admin menu"
+msgid "Layouts"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:169
+msgctxt "add new on admin bar"
+msgid "Layout"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:170
+msgctxt "layout"
+msgid "Add New"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:171
+msgid "Add New Layout"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:172
+msgid "New Layout"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:173
+msgid "Edit Layout"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:174
+msgid "View Layout"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:175
+msgid "All Layouts"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:176
+msgid "Search Layouts"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:177
+msgid "Parent Layouts:"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:178
+msgid "No books found."
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:179
+msgid "No books found in Trash."
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:319
+msgid "Peenapo Page Builder"
+msgstr ""
+
+#: core/admin/class.Playouts-Admin.php:337
+msgid "Peenapo Layouts Report"
+msgstr ""
+
+#: core/class.Playouts-Element.php:170
+msgid "Row"
+msgstr ""
+
+#: core/class.Playouts-Element.php:183 core/class.Playouts-Element.php:908
+#: core/class.Playouts-Option-Type.php:716
+msgid "Columns"
+msgstr ""
+
+#: core/class.Playouts-Element.php:186
+msgid "Row Layout"
+msgstr ""
+
+#: core/class.Playouts-Element.php:188
+msgid "Select the display version of the row."
+msgstr ""
+
+#: core/class.Playouts-Element.php:204 core/class.Playouts-Element.php:206
+#: core/class.Playouts-Element.php:218 core/class.Playouts-Element.php:224
+#: core/class.Playouts-Element.php:230 core/class.Playouts-Element.php:249
+#: core/class.Playouts-Element.php:262 core/class.Playouts-Element.php:272
+#: core/class.Playouts-Element.php:278 core/class.Playouts-Element.php:284
+#: core/class.Playouts-Element.php:290 core/class.Playouts-Element.php:296
+#: core/class.Playouts-Element.php:301 core/class.Playouts-Element.php:311
+#: core/class.Playouts-Element.php:327 core/class.Playouts-Element.php:337
+#: core/class.Playouts-Element.php:595 core/class.Playouts-Element.php:597
+#: core/class.Playouts-Element.php:609 core/class.Playouts-Element.php:615
+#: core/class.Playouts-Element.php:621 core/class.Playouts-Element.php:640
+#: core/class.Playouts-Element.php:653 core/class.Playouts-Element.php:663
+#: core/class.Playouts-Element.php:669 core/class.Playouts-Element.php:675
+#: core/class.Playouts-Element.php:681 core/class.Playouts-Element.php:687
+#: core/class.Playouts-Element.php:692 core/class.Playouts-Element.php:701
+#: core/class.Playouts-Element.php:718 core/class.Playouts-Element.php:728
+#: core/class.Playouts-Element.php:979 core/class.Playouts-Element.php:981
+#: core/class.Playouts-Element.php:993 core/class.Playouts-Element.php:999
+#: core/class.Playouts-Element.php:1005 core/class.Playouts-Element.php:1024
+#: core/class.Playouts-Element.php:1037 core/class.Playouts-Element.php:1047
+#: core/class.Playouts-Element.php:1053 core/class.Playouts-Element.php:1059
+#: core/class.Playouts-Element.php:1065 core/class.Playouts-Element.php:1071
+#: core/class.Playouts-Element.php:1076 core/class.Playouts-Element.php:1085
+#: core/class.Playouts-Element.php:1102 core/class.Playouts-Element.php:1112
+#: core/class.Playouts-Element.php:1365 core/class.Playouts-Element.php:1367
+#: core/class.Playouts-Element.php:1379 core/class.Playouts-Element.php:1385
+#: core/class.Playouts-Element.php:1391 core/class.Playouts-Element.php:1410
+#: core/class.Playouts-Element.php:1423 core/class.Playouts-Element.php:1433
+#: core/class.Playouts-Element.php:1439 core/class.Playouts-Element.php:1445
+#: core/class.Playouts-Element.php:1451 core/class.Playouts-Element.php:1457
+#: core/class.Playouts-Element.php:1462 core/class.Playouts-Element.php:1471
+#: core/class.Playouts-Element.php:1488 core/class.Playouts-Element.php:1498
+#: core/class.Playouts-Element.php:5148 core/class.Playouts-Element.php:5153
+#: core/class.Playouts-Element.php:5158 core/class.Playouts-Element.php:5164
+#: core/class.Playouts-Element.php:5172
+msgid "Background"
+msgstr ""
+
+#: core/class.Playouts-Element.php:205 core/class.Playouts-Element.php:596
+#: core/class.Playouts-Element.php:980 core/class.Playouts-Element.php:1366
+msgid "Select row background type"
+msgstr ""
+
+#: core/class.Playouts-Element.php:217 core/class.Playouts-Element.php:608
+#: core/class.Playouts-Element.php:992 core/class.Playouts-Element.php:1378
+#: core/class.Playouts-Element.php:1716 core/class.Playouts-Element.php:2392
+#: core/class.Playouts-Element.php:2443 core/class.Playouts-Element.php:3146
+#: core/class.Playouts-Element.php:5146
+msgid "Background Color"
+msgstr ""
+
+#: core/class.Playouts-Element.php:223 core/class.Playouts-Element.php:614
+#: core/class.Playouts-Element.php:998 core/class.Playouts-Element.php:1384
+#: core/class.Playouts-Element.php:5151 core/class.Playouts-Element.php:5367
+msgid "Background Image"
+msgstr ""
+
+#: core/class.Playouts-Element.php:229 core/class.Playouts-Element.php:620
+#: core/class.Playouts-Element.php:1004 core/class.Playouts-Element.php:1390
+msgid "Background Position"
+msgstr ""
+
+#: core/class.Playouts-Element.php:248 core/class.Playouts-Element.php:639
+#: core/class.Playouts-Element.php:1023 core/class.Playouts-Element.php:1409
+msgid "Background Size"
+msgstr ""
+
+#: core/class.Playouts-Element.php:261 core/class.Playouts-Element.php:652
+#: core/class.Playouts-Element.php:1036 core/class.Playouts-Element.php:1422
+msgid "Parallax Speed"
+msgstr ""
+
+#: core/class.Playouts-Element.php:271 core/class.Playouts-Element.php:662
+#: core/class.Playouts-Element.php:1046 core/class.Playouts-Element.php:1432
+msgid "Video Mp4"
+msgstr ""
+
+#: core/class.Playouts-Element.php:277 core/class.Playouts-Element.php:668
+#: core/class.Playouts-Element.php:1052 core/class.Playouts-Element.php:1438
+msgid "Video Ogv"
+msgstr ""
+
+#: core/class.Playouts-Element.php:283 core/class.Playouts-Element.php:674
+#: core/class.Playouts-Element.php:1058 core/class.Playouts-Element.php:1444
+msgid "Video Webm"
+msgstr ""
+
+#: core/class.Playouts-Element.php:289 core/class.Playouts-Element.php:680
+#: core/class.Playouts-Element.php:1064 core/class.Playouts-Element.php:1450
+msgid "Video Poster"
+msgstr ""
+
+#: core/class.Playouts-Element.php:295 core/class.Playouts-Element.php:686
+#: core/class.Playouts-Element.php:1070 core/class.Playouts-Element.php:1456
+msgid "Enable Overlay"
+msgstr ""
+
+#: core/class.Playouts-Element.php:300 core/class.Playouts-Element.php:691
+#: core/class.Playouts-Element.php:1075 core/class.Playouts-Element.php:1461
+#: core/class.Playouts-Element.php:5169
+msgid "Overlay Background Color"
+msgstr ""
+
+#: core/class.Playouts-Element.php:307 core/class.Playouts-Element.php:698
+#: core/class.Playouts-Element.php:1082 core/class.Playouts-Element.php:1468
+msgid "Overlay Second Background Color ( Optional )"
+msgstr ""
+
+#: core/class.Playouts-Element.php:308 core/class.Playouts-Element.php:699
+#: core/class.Playouts-Element.php:1083 core/class.Playouts-Element.php:1469
+#: core/class.Playouts-Element.php:2235 core/class.Playouts-Element.php:2398
+msgid "For gradient background color."
+msgstr ""
+
+#: core/class.Playouts-Element.php:315 core/class.Playouts-Element.php:706
+#: core/class.Playouts-Element.php:1090 core/class.Playouts-Element.php:1476
+msgid "Overlay Gradient Direction"
+msgstr ""
+
+#: core/class.Playouts-Element.php:331 core/class.Playouts-Element.php:722
+#: core/class.Playouts-Element.php:1106 core/class.Playouts-Element.php:1492
+msgid "Overlay Opacity"
+msgstr ""
+
+#: core/class.Playouts-Element.php:342 core/class.Playouts-Element.php:945
+msgid "Vertical Alignment"
+msgstr ""
+
+#: core/class.Playouts-Element.php:353 core/class.Playouts-Element.php:739
+#: core/class.Playouts-Element.php:918 core/class.Playouts-Element.php:1295
+#: core/class.Playouts-Element.php:1622 core/class.Playouts-Element.php:4562
+#: core/class.Playouts-Element.php:4787 core/class.Playouts-Element.php:4967
+#: core/class.Playouts-Element.php:5103
+msgid "Text Alignment"
+msgstr ""
+
+#: core/class.Playouts-Element.php:364 core/class.Playouts-Element.php:929
+msgid "Set Static Row Height"
+msgstr ""
+
+#: core/class.Playouts-Element.php:369 core/class.Playouts-Element.php:934
+msgid "Static Height in Percentage"
+msgstr ""
+
+#: core/class.Playouts-Element.php:370 core/class.Playouts-Element.php:935
+msgid "Row height, 100% = full window height"
+msgstr ""
+
+#: core/class.Playouts-Element.php:380 core/class.Playouts-Element.php:733
+#: core/class.Playouts-Element.php:912 core/class.Playouts-Element.php:1289
+#: core/class.Playouts-Element.php:1616 core/class.Playouts-Element.php:1720
+#: core/class.Playouts-Element.php:2245 core/class.Playouts-Element.php:2418
+#: core/class.Playouts-Element.php:2448 core/class.Playouts-Element.php:2934
+#: core/class.Playouts-Element.php:3151 core/class.Playouts-Element.php:4591
+#: core/class.Playouts-Element.php:4781 core/class.Playouts-Element.php:5127
+msgid "Text Color"
+msgstr ""
+
+#: core/class.Playouts-Element.php:384 core/class.Playouts-Element.php:394
+#: core/class.Playouts-Element.php:405 core/class.Playouts-Element.php:416
+#: core/class.Playouts-Element.php:1116 core/class.Playouts-Element.php:1127
+#: core/class.Playouts-Element.php:1139 core/class.Playouts-Element.php:1151
+#: core/class.Playouts-Element.php:2116 core/class.Playouts-Element.php:2128
+#: core/class.Playouts-Element.php:2140 core/class.Playouts-Element.php:3451
+#: core/class.Playouts-Element.php:3463 core/class.Playouts-Element.php:3475
+#: core/class.Playouts-Element.php:4005 core/class.Playouts-Element.php:4016
+#: core/class.Playouts-Element.php:4028 core/class.Playouts-Element.php:4831
+#: core/class.Playouts-Element.php:4841 core/class.Playouts-Element.php:4852
+msgid "Animation"
+msgstr ""
+
+#: core/class.Playouts-Element.php:397 core/class.Playouts-Element.php:1130
+#: core/class.Playouts-Element.php:2119 core/class.Playouts-Element.php:3454
+#: core/class.Playouts-Element.php:4600 core/class.Playouts-Element.php:4834
+msgid "Animation Speed"
+msgstr ""
+
+#: core/class.Playouts-Element.php:398 core/class.Playouts-Element.php:409
+#: core/class.Playouts-Element.php:1131 core/class.Playouts-Element.php:1143
+#: core/class.Playouts-Element.php:2120 core/class.Playouts-Element.php:3455
+msgid "Item animation speed in milliseconds."
+msgstr ""
+
+#: core/class.Playouts-Element.php:408 core/class.Playouts-Element.php:1142
+#: core/class.Playouts-Element.php:2131 core/class.Playouts-Element.php:3466
+#: core/class.Playouts-Element.php:4019
+msgid "Animation Delay"
+msgstr ""
+
+#: core/class.Playouts-Element.php:420 core/class.Playouts-Element.php:1341
+#: core/class.Playouts-Element.php:2454 core/class.Playouts-Element.php:2576
+#: core/class.Playouts-Element.php:5948
+msgid "Margin Top"
+msgstr ""
+
+#: core/class.Playouts-Element.php:421
+msgid ""
+"Don't include 'px' in your string. e.g '40' - For perecent value '%' would "
+"be needed at the end e.g '10%'."
+msgstr ""
+
+#: core/class.Playouts-Element.php:422 core/class.Playouts-Element.php:428
+#: core/class.Playouts-Element.php:434 core/class.Playouts-Element.php:440
+#: core/class.Playouts-Element.php:446 core/class.Playouts-Element.php:452
+#: core/class.Playouts-Element.php:458 core/class.Playouts-Element.php:463
+#: core/class.Playouts-Element.php:468 core/class.Playouts-Element.php:761
+#: core/class.Playouts-Element.php:767 core/class.Playouts-Element.php:773
+#: core/class.Playouts-Element.php:779 core/class.Playouts-Element.php:785
+#: core/class.Playouts-Element.php:791 core/class.Playouts-Element.php:797
+#: core/class.Playouts-Element.php:802 core/class.Playouts-Element.php:807
+#: core/class.Playouts-Element.php:956 core/class.Playouts-Element.php:962
+#: core/class.Playouts-Element.php:968 core/class.Playouts-Element.php:974
+#: core/class.Playouts-Element.php:1156 core/class.Playouts-Element.php:1161
+#: core/class.Playouts-Element.php:1166 core/class.Playouts-Element.php:1318
+#: core/class.Playouts-Element.php:1324 core/class.Playouts-Element.php:1330
+#: core/class.Playouts-Element.php:1336 core/class.Playouts-Element.php:1342
+#: core/class.Playouts-Element.php:1348 core/class.Playouts-Element.php:1354
+#: core/class.Playouts-Element.php:1360 core/class.Playouts-Element.php:1504
+#: core/class.Playouts-Element.php:1509 core/class.Playouts-Element.php:1514
+#: core/class.Playouts-Element.php:1641 core/class.Playouts-Element.php:1646
+#: core/class.Playouts-Element.php:1651 core/class.Playouts-Element.php:1731
+#: core/class.Playouts-Element.php:1736 core/class.Playouts-Element.php:1741
+#: core/class.Playouts-Element.php:1836 core/class.Playouts-Element.php:1841
+#: core/class.Playouts-Element.php:1846 core/class.Playouts-Element.php:1904
+#: core/class.Playouts-Element.php:1909 core/class.Playouts-Element.php:1914
+#: core/class.Playouts-Element.php:1983 core/class.Playouts-Element.php:1988
+#: core/class.Playouts-Element.php:1993 core/class.Playouts-Element.php:2057
+#: core/class.Playouts-Element.php:2062 core/class.Playouts-Element.php:2145
+#: core/class.Playouts-Element.php:2150 core/class.Playouts-Element.php:2155
+#: core/class.Playouts-Element.php:2273 core/class.Playouts-Element.php:2279
+#: core/class.Playouts-Element.php:2285 core/class.Playouts-Element.php:2290
+#: core/class.Playouts-Element.php:2295 core/class.Playouts-Element.php:2455
+#: core/class.Playouts-Element.php:2461 core/class.Playouts-Element.php:2467
+#: core/class.Playouts-Element.php:2473 core/class.Playouts-Element.php:2479
+#: core/class.Playouts-Element.php:2484 core/class.Playouts-Element.php:2489
+#: core/class.Playouts-Element.php:2577 core/class.Playouts-Element.php:2583
+#: core/class.Playouts-Element.php:2589 core/class.Playouts-Element.php:2594
+#: core/class.Playouts-Element.php:2599 core/class.Playouts-Element.php:2651
+#: core/class.Playouts-Element.php:2656 core/class.Playouts-Element.php:2661
+#: core/class.Playouts-Element.php:2784 core/class.Playouts-Element.php:2789
+#: core/class.Playouts-Element.php:2794 core/class.Playouts-Element.php:2848
+#: core/class.Playouts-Element.php:2853 core/class.Playouts-Element.php:2858
+#: core/class.Playouts-Element.php:2948 core/class.Playouts-Element.php:2953
+#: core/class.Playouts-Element.php:2958 core/class.Playouts-Element.php:3192
+#: core/class.Playouts-Element.php:3197 core/class.Playouts-Element.php:3202
+#: core/class.Playouts-Element.php:3320 core/class.Playouts-Element.php:3325
+#: core/class.Playouts-Element.php:3330 core/class.Playouts-Element.php:3480
+#: core/class.Playouts-Element.php:3485 core/class.Playouts-Element.php:3490
+#: core/class.Playouts-Element.php:3570 core/class.Playouts-Element.php:3575
+#: core/class.Playouts-Element.php:3580 core/class.Playouts-Element.php:3746
+#: core/class.Playouts-Element.php:3751 core/class.Playouts-Element.php:3756
+#: core/class.Playouts-Element.php:3849 core/class.Playouts-Element.php:3854
+#: core/class.Playouts-Element.php:3859 core/class.Playouts-Element.php:3924
+#: core/class.Playouts-Element.php:3929 core/class.Playouts-Element.php:3934
+#: core/class.Playouts-Element.php:4033 core/class.Playouts-Element.php:4038
+#: core/class.Playouts-Element.php:4043 core/class.Playouts-Element.php:4158
+#: core/class.Playouts-Element.php:4163 core/class.Playouts-Element.php:4168
+#: core/class.Playouts-Element.php:4370 core/class.Playouts-Element.php:4375
+#: core/class.Playouts-Element.php:4380 core/class.Playouts-Element.php:4469
+#: core/class.Playouts-Element.php:4474 core/class.Playouts-Element.php:4479
+#: core/class.Playouts-Element.php:4620 core/class.Playouts-Element.php:4625
+#: core/class.Playouts-Element.php:4630 core/class.Playouts-Element.php:4698
+#: core/class.Playouts-Element.php:4703 core/class.Playouts-Element.php:4708
+#: core/class.Playouts-Element.php:4858 core/class.Playouts-Element.php:4863
+#: core/class.Playouts-Element.php:4868 core/class.Playouts-Element.php:5009
+#: core/class.Playouts-Element.php:5014 core/class.Playouts-Element.php:5019
+#: core/class.Playouts-Element.php:5177 core/class.Playouts-Element.php:5182
+#: core/class.Playouts-Element.php:5187 core/class.Playouts-Element.php:5298
+#: core/class.Playouts-Element.php:5303 core/class.Playouts-Element.php:5308
+#: core/class.Playouts-Element.php:5389 core/class.Playouts-Element.php:5394
+#: core/class.Playouts-Element.php:5399 core/class.Playouts-Element.php:5490
+#: core/class.Playouts-Element.php:5495 core/class.Playouts-Element.php:5500
+#: core/class.Playouts-Element.php:5576 core/class.Playouts-Element.php:5581
+#: core/class.Playouts-Element.php:5586 core/class.Playouts-Element.php:5721
+#: core/class.Playouts-Element.php:5726 core/class.Playouts-Element.php:5731
+#: core/class.Playouts-Element.php:5837 core/class.Playouts-Element.php:5842
+#: core/class.Playouts-Element.php:5847 core/class.Playouts-Element.php:5949
+#: core/class.Playouts-Element.php:5955 core/class.Playouts-Element.php:5961
+#: core/class.Playouts-Element.php:5967 core/class.Playouts-Element.php:5973
+#: core/class.Playouts-Element.php:5978 core/class.Playouts-Element.php:5983
+#: core/class.Playouts-Element.php:6106 core/class.Playouts-Element.php:6111
+#: core/class.Playouts-Element.php:6116
+msgid "Inline"
+msgstr ""
+
+#: core/class.Playouts-Element.php:427 core/class.Playouts-Element.php:1353
+#: core/class.Playouts-Element.php:2466 core/class.Playouts-Element.php:2582
+#: core/class.Playouts-Element.php:5960
+msgid "Margin Bottom"
+msgstr ""
+
+#: core/class.Playouts-Element.php:433 core/class.Playouts-Element.php:772
+#: core/class.Playouts-Element.php:955 core/class.Playouts-Element.php:1317
+#: core/class.Playouts-Element.php:2272
+msgid "Padding Top"
+msgstr ""
+
+#: core/class.Playouts-Element.php:439 core/class.Playouts-Element.php:778
+#: core/class.Playouts-Element.php:961 core/class.Playouts-Element.php:1323
+msgid "Padding Right"
+msgstr ""
+
+#: core/class.Playouts-Element.php:445 core/class.Playouts-Element.php:784
+#: core/class.Playouts-Element.php:967 core/class.Playouts-Element.php:1329
+#: core/class.Playouts-Element.php:2278
+msgid "Padding Bottom"
+msgstr ""
+
+#: core/class.Playouts-Element.php:451 core/class.Playouts-Element.php:790
+#: core/class.Playouts-Element.php:973 core/class.Playouts-Element.php:1335
+msgid "Padding Left"
+msgstr ""
+
+#: core/class.Playouts-Element.php:457 core/class.Playouts-Element.php:796
+#: core/class.Playouts-Element.php:1155 core/class.Playouts-Element.php:1503
+#: core/class.Playouts-Element.php:1640 core/class.Playouts-Element.php:1730
+#: core/class.Playouts-Element.php:1835 core/class.Playouts-Element.php:1903
+#: core/class.Playouts-Element.php:1982 core/class.Playouts-Element.php:2056
+#: core/class.Playouts-Element.php:2144 core/class.Playouts-Element.php:2284
+#: core/class.Playouts-Element.php:2478 core/class.Playouts-Element.php:2588
+#: core/class.Playouts-Element.php:2650 core/class.Playouts-Element.php:2783
+#: core/class.Playouts-Element.php:2847 core/class.Playouts-Element.php:2947
+#: core/class.Playouts-Element.php:3191 core/class.Playouts-Element.php:3319
+#: core/class.Playouts-Element.php:3479 core/class.Playouts-Element.php:3569
+#: core/class.Playouts-Element.php:3745 core/class.Playouts-Element.php:3848
+#: core/class.Playouts-Element.php:3923 core/class.Playouts-Element.php:4032
+#: core/class.Playouts-Element.php:4157 core/class.Playouts-Element.php:4369
+#: core/class.Playouts-Element.php:4468 core/class.Playouts-Element.php:4619
+#: core/class.Playouts-Element.php:4697 core/class.Playouts-Element.php:4857
+#: core/class.Playouts-Element.php:5008 core/class.Playouts-Element.php:5176
+#: core/class.Playouts-Element.php:5297 core/class.Playouts-Element.php:5388
+#: core/class.Playouts-Element.php:5489 core/class.Playouts-Element.php:5575
+#: core/class.Playouts-Element.php:5720 core/class.Playouts-Element.php:5836
+#: core/class.Playouts-Element.php:5972 core/class.Playouts-Element.php:6105
+msgid "CSS Classes"
+msgstr ""
+
+#: core/class.Playouts-Element.php:462 core/class.Playouts-Element.php:801
+#: core/class.Playouts-Element.php:1160 core/class.Playouts-Element.php:1508
+#: core/class.Playouts-Element.php:1645 core/class.Playouts-Element.php:1735
+#: core/class.Playouts-Element.php:1840 core/class.Playouts-Element.php:1908
+#: core/class.Playouts-Element.php:1987 core/class.Playouts-Element.php:2149
+#: core/class.Playouts-Element.php:2289 core/class.Playouts-Element.php:2483
+#: core/class.Playouts-Element.php:2593 core/class.Playouts-Element.php:2655
+#: core/class.Playouts-Element.php:2788 core/class.Playouts-Element.php:2852
+#: core/class.Playouts-Element.php:2952 core/class.Playouts-Element.php:3196
+#: core/class.Playouts-Element.php:3324 core/class.Playouts-Element.php:3484
+#: core/class.Playouts-Element.php:3574 core/class.Playouts-Element.php:3750
+#: core/class.Playouts-Element.php:3853 core/class.Playouts-Element.php:3928
+#: core/class.Playouts-Element.php:4037 core/class.Playouts-Element.php:4162
+#: core/class.Playouts-Element.php:4374 core/class.Playouts-Element.php:4473
+#: core/class.Playouts-Element.php:4624 core/class.Playouts-Element.php:4702
+#: core/class.Playouts-Element.php:4862 core/class.Playouts-Element.php:5013
+#: core/class.Playouts-Element.php:5181 core/class.Playouts-Element.php:5302
+#: core/class.Playouts-Element.php:5393 core/class.Playouts-Element.php:5494
+#: core/class.Playouts-Element.php:5580 core/class.Playouts-Element.php:5725
+#: core/class.Playouts-Element.php:5841 core/class.Playouts-Element.php:5977
+#: core/class.Playouts-Element.php:6110
+msgid "Element ID"
+msgstr ""
+
+#: core/class.Playouts-Element.php:467 core/class.Playouts-Element.php:806
+#: core/class.Playouts-Element.php:1165 core/class.Playouts-Element.php:1513
+#: core/class.Playouts-Element.php:1650 core/class.Playouts-Element.php:1740
+#: core/class.Playouts-Element.php:1845 core/class.Playouts-Element.php:1913
+#: core/class.Playouts-Element.php:1992 core/class.Playouts-Element.php:2061
+#: core/class.Playouts-Element.php:2154 core/class.Playouts-Element.php:2294
+#: core/class.Playouts-Element.php:2488 core/class.Playouts-Element.php:2598
+#: core/class.Playouts-Element.php:2660 core/class.Playouts-Element.php:2793
+#: core/class.Playouts-Element.php:2857 core/class.Playouts-Element.php:2957
+#: core/class.Playouts-Element.php:3201 core/class.Playouts-Element.php:3329
+#: core/class.Playouts-Element.php:3489 core/class.Playouts-Element.php:3579
+#: core/class.Playouts-Element.php:3755 core/class.Playouts-Element.php:3858
+#: core/class.Playouts-Element.php:3933 core/class.Playouts-Element.php:4042
+#: core/class.Playouts-Element.php:4167 core/class.Playouts-Element.php:4379
+#: core/class.Playouts-Element.php:4478 core/class.Playouts-Element.php:4629
+#: core/class.Playouts-Element.php:4707 core/class.Playouts-Element.php:4867
+#: core/class.Playouts-Element.php:5018 core/class.Playouts-Element.php:5186
+#: core/class.Playouts-Element.php:5307 core/class.Playouts-Element.php:5398
+#: core/class.Playouts-Element.php:5499 core/class.Playouts-Element.php:5585
+#: core/class.Playouts-Element.php:5730 core/class.Playouts-Element.php:5846
+#: core/class.Playouts-Element.php:5982 core/class.Playouts-Element.php:6115
+msgid "Inline CSS"
+msgstr ""
+
+#: core/class.Playouts-Element.php:580
+msgid "Column"
+msgstr ""
+
+#: core/class.Playouts-Element.php:582 core/class.Playouts-Element.php:1276
+#: core/class.Playouts-Element.php:1611 core/class.Playouts-Element.php:1633
+#: core/class.Playouts-Element.php:1691 core/class.Playouts-Element.php:1811
+#: core/class.Playouts-Element.php:1896 core/class.Playouts-Element.php:1959
+#: core/class.Playouts-Element.php:2049 core/class.Playouts-Element.php:2105
+#: core/class.Playouts-Element.php:2356 core/class.Playouts-Element.php:2562
+#: core/class.Playouts-Element.php:2640 core/class.Playouts-Element.php:2702
+#: core/class.Playouts-Element.php:2768 core/class.Playouts-Element.php:2833
+#: core/class.Playouts-Element.php:2896 core/class.Playouts-Element.php:3016
+#: core/class.Playouts-Element.php:3052 core/class.Playouts-Element.php:3308
+#: core/class.Playouts-Element.php:3431 core/class.Playouts-Element.php:3637
+#: core/class.Playouts-Element.php:3913 core/class.Playouts-Element.php:4101
+#: core/class.Playouts-Element.php:4236 core/class.Playouts-Element.php:4539
+#: core/class.Playouts-Element.php:4749 core/class.Playouts-Element.php:4758
+#: core/class.Playouts-Element.php:4932 core/class.Playouts-Element.php:5072
+#: core/class.Playouts-Element.php:5261 core/class.Playouts-Element.php:5358
+#: core/class.Playouts-Element.php:5555 core/class.Playouts-Element.php:5657
+#: core/class.Playouts-Element.php:5799 core/class.Playouts-Element.php:5894
+#: core/class.Playouts-Element.php:6047
+msgid "Content"
+msgstr ""
+
+#: core/class.Playouts-Element.php:750 core/class.Playouts-Element.php:1307
+msgid "Column Alignment"
+msgstr ""
+
+#: core/class.Playouts-Element.php:760 core/class.Playouts-Element.php:1359
+#: core/class.Playouts-Element.php:2472 core/class.Playouts-Element.php:5966
+msgid "Margin Left"
+msgstr ""
+
+#: core/class.Playouts-Element.php:766 core/class.Playouts-Element.php:1347
+#: core/class.Playouts-Element.php:2460 core/class.Playouts-Element.php:5954
+msgid "Margin Right"
+msgstr ""
+
+#: core/class.Playouts-Element.php:899
+msgid "Row Inner"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1274
+msgid "Column Inner"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1609 core/class.Playouts-Element.php:3020
+#: core/class.Playouts-Element.php:4692 core/class.Playouts-Element.php:4937
+#: core/class.Playouts-Element.php:5081 core/class.Playouts-Element.php:5466
+#: core/class.Playouts-Option-Type.php:301
+msgid "Text"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1689
+msgid "Audio Player"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1696
+msgid "Audio File"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1699
+msgid "Display Full Cover"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1704 core/class.Playouts-Element.php:1888
+#: core/class.Playouts-Element.php:2045 core/class.Playouts-Element.php:2210
+#: core/class.Playouts-Element.php:3288 core/class.Playouts-Element.php:4754
+#: core/class.Playouts-Element.php:5461 core/class.Playouts-Element.php:6195
+msgid "Title"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1708
+msgid "Artist"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1712
+msgid "Cover Image"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1777
+msgid "By: "
+msgstr ""
+
+#: core/class.Playouts-Element.php:1809
+msgid "Accordion"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1816 core/class.Playouts-Element.php:1964
+#: core/class.Playouts-Element.php:2110
+msgid "Tab items"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1817 core/class.Playouts-Element.php:1965
+#: core/class.Playouts-Element.php:2111
+msgid "You can add as many tabs as you need, just click the plus icon."
+msgstr ""
+
+#: core/class.Playouts-Element.php:1821
+msgid "Close Other Items?"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1822
+msgid ""
+"Enable this option if you want to close the rest of accordion items on mouse "
+"click."
+msgstr ""
+
+#: core/class.Playouts-Element.php:1825
+msgid "Titles Height"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1883
+msgid "Accordion Item"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1892
+msgid "Active by Default?"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1957
+msgid "Tabs"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1968
+msgid "Enable Tabs Bottom Border"
+msgstr ""
+
+#: core/class.Playouts-Element.php:1972
+msgid "Tab Line Height"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2040
+msgid "Tab"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2103
+msgid "Progress Bars"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2115 core/class.Playouts-Element.php:3450
+#: core/class.Playouts-Element.php:4829
+msgid "Enable Animation"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2132
+msgid "Animation delay between bars in milliseconds."
+msgstr ""
+
+#: core/class.Playouts-Element.php:2205
+msgid "Progress Bar"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2212
+msgid "Some title goes here"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2215
+msgid "Value ( Optional )"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2219
+msgid "Progress"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2221
+msgid "Some description"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2229
+msgid "Bar Color"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2234
+msgid "Bar Secondary Color ( Optional )"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2240
+msgid "Bar Background Color"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2250
+msgid "Counter Text Color"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2255 core/class.Playouts-Element.php:2403
+#: core/class.Playouts-Element.php:4978 core/class.Playouts-Element.php:5694
+#: core/class.Playouts-Element.php:5932
+msgid "Gradient Direction"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2354 core/class.Playouts-Element.php:5671
+msgid "Button"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2361
+msgid "Label"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2363
+msgid "This is a button"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2366 core/class.Playouts-Element.php:5134
+msgid "Link"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2371 core/class.Playouts-Element.php:3560
+#: core/class.Playouts-Element.php:3839 core/class.Playouts-Element.php:5140
+msgid "Open in a New Tab?"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2375
+msgid "Style"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2388 core/class.Playouts-Element.php:5816
+msgid "Bold Text?"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2397
+msgid "Second Background Color ( Optional )"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2422
+msgid "Border Radius"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2431
+msgid "Transform Top Position"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2434 core/class.Playouts-Element.php:2440
+#: core/class.Playouts-Element.php:2445 core/class.Playouts-Element.php:2450
+msgid "Hover Styles"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2437
+msgid "Add Shadow"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2560 core/class.Playouts-Element.php:2567
+msgid "Code"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2571
+msgid "Some code goes here.."
+msgstr ""
+
+#: core/class.Playouts-Element.php:2638
+msgid "Sidebar"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2646 core/class.Playouts-Option-Type.php:594
+msgid "Select Sidebar"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2700
+msgid "Contact Form 7"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2719
+msgid "Select Form"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2724
+msgid "No contact forms found."
+msgstr ""
+
+#: core/class.Playouts-Element.php:2730
+msgid "Select Contact Form"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2766
+msgid "Divider"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2773
+msgid "Separator height"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2831 core/class.Playouts-Element.php:2839
+#: core/class.Playouts-Element.php:4460 core/class.Playouts-Option-Type.php:485
+msgid "Image"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2843
+msgid "Alt Tag ( Optional )"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2894
+msgid "Auto Type Heading"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2901
+msgid "Texts"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2903
+msgid "You can add as many texts as you need, just click the plus icon."
+msgstr ""
+
+#: core/class.Playouts-Element.php:2906
+msgid "Static Heading"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2908
+msgid "This is the main title"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2911 core/class.Playouts-Element.php:4767
+#: core/class.Playouts-Element.php:4941 core/class.Playouts-Element.php:5089
+msgid "Select Heading Title Tag"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2924 core/class.Playouts-Element.php:4572
+#: core/class.Playouts-Element.php:4994 core/class.Playouts-Element.php:5113
+#: core/class.Playouts-Element.php:5807 core/class.Playouts-Element.php:5907
+msgid "Font Size"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2938
+msgid "Auto Type Color"
+msgstr ""
+
+#: core/class.Playouts-Element.php:2941 core/class.Playouts-Element.php:4595
+#: core/class.Playouts-Element.php:4825 core/class.Playouts-Element.php:5003
+msgid "Bold Text"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3014
+msgid "Auto Type Text"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3022
+msgid "Auto type text here."
+msgstr ""
+
+#: core/class.Playouts-Element.php:3050
+msgid "Testimonial Slider"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3057
+msgid "Testimonials"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3058 core/class.Playouts-Element.php:3437
+#: core/class.Playouts-Element.php:3643 core/class.Playouts-Element.php:3919
+#: core/class.Playouts-Element.php:4242 core/class.Playouts-Element.php:5364
+msgid "You can add as many items as you need, just click the plus icon."
+msgstr ""
+
+#: core/class.Playouts-Element.php:3061
+msgid "Layout"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3070 core/class.Playouts-Element.php:3646
+#: core/class.Playouts-Element.php:4245
+msgid "Slides Width"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3079 core/class.Playouts-Element.php:3655
+#: core/class.Playouts-Element.php:4269
+msgid "Enable Adaptive Height"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3084 core/class.Playouts-Element.php:3660
+#: core/class.Playouts-Element.php:4284
+msgid "Enable Slides Grouping"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3085 core/class.Playouts-Element.php:3661
+#: core/class.Playouts-Element.php:4285
+msgid "Groups cells together in slides"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3089 core/class.Playouts-Element.php:3665
+#: core/class.Playouts-Element.php:4289
+msgid "Group Slides"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3099 core/class.Playouts-Element.php:3675
+#: core/class.Playouts-Element.php:4299
+msgid "Enable Auto-play"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3103 core/class.Playouts-Element.php:3679
+#: core/class.Playouts-Element.php:4303
+msgid "Auto-play Timeout"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3104 core/class.Playouts-Element.php:3680
+#: core/class.Playouts-Element.php:4304
+msgid ""
+"Advance cells ever {Number} milliseconds. 1500 will advance cells every 1.5 "
+"seconds"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3114 core/class.Playouts-Element.php:3690
+#: core/class.Playouts-Element.php:4314
+msgid "Stop Auto-playing on Hover"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3115 core/class.Playouts-Element.php:3691
+#: core/class.Playouts-Element.php:4315
+msgid "Auto-playing will pause when the user hovers over the carousel"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3121 core/class.Playouts-Element.php:3697
+#: core/class.Playouts-Element.php:4321
+msgid "Enable Dot Pagination"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3127 core/class.Playouts-Element.php:3703
+#: core/class.Playouts-Element.php:4327
+msgid "Infinite Loop"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3128 core/class.Playouts-Element.php:3704
+#: core/class.Playouts-Element.php:4328
+msgid ""
+"At the end of cells, wrap-around to the other end for infinite scrolling."
+msgstr ""
+
+#: core/class.Playouts-Element.php:3134
+msgid "Enable Focus Accent"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3135
+msgid "Enable this option to add accent color to focused slides."
+msgstr ""
+
+#: core/class.Playouts-Element.php:3140 core/class.Playouts-Element.php:3716
+#: core/class.Playouts-Element.php:4340
+msgid "Invret Colors"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3141 core/class.Playouts-Element.php:3717
+msgid "enable this options if you use a dark background."
+msgstr ""
+
+#: core/class.Playouts-Element.php:3156 core/class.Playouts-Element.php:3710
+#: core/class.Playouts-Element.php:4334
+msgid "Custom Animation Speed"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3157 core/class.Playouts-Element.php:3711
+#: core/class.Playouts-Element.php:4335
+msgid "Set custom slider speed."
+msgstr ""
+
+#: core/class.Playouts-Element.php:3162
+msgid "Fine Text"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3163
+msgid "This will make your content text finer."
+msgstr ""
+
+#: core/class.Playouts-Element.php:3168 core/class.Playouts-Element.php:3722
+#: core/class.Playouts-Element.php:4346
+msgid "Attraction"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3169 core/class.Playouts-Element.php:3723
+#: core/class.Playouts-Element.php:4347
+msgid ""
+"Attracts the position of the slider to the selected cell. Higher attraction "
+"makes the slider move faster. Lower makes it move slower."
+msgstr ""
+
+#: core/class.Playouts-Element.php:3179 core/class.Playouts-Element.php:3733
+#: core/class.Playouts-Element.php:4357
+msgid "Friction"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3180 core/class.Playouts-Element.php:3734
+#: core/class.Playouts-Element.php:4358
+msgid ""
+"Slows the movement of slider. Higher friction makes the slider feel stickier "
+"and less bouncy. Lower friction makes the slider feel looser and more wobbly."
+msgstr ""
+
+#: core/class.Playouts-Element.php:3278
+msgid "Testimonial Slide"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3283
+msgid "Name"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3285
+msgid "Testimonial name"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3290
+msgid "Testimonial title"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3293
+msgid "Enable Star Rating"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3294
+msgid "Your can add star rating if you want"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3298
+msgid "Star Rating"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3315
+msgid "Thumbnail"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3429
+msgid "Clients"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3436 core/class.Playouts-Element.php:3642
+#: core/class.Playouts-Element.php:3918
+msgid "Client Items"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3440
+msgid "Items Per Row"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3467
+msgid "The appearance delay between each item in milliseconds."
+msgstr ""
+
+#: core/class.Playouts-Element.php:3539
+msgid "Client"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3545 core/class.Playouts-Element.php:3824
+#: core/class.Playouts-Element.php:3974
+msgid "Client Image"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3549 core/class.Playouts-Element.php:3828
+msgid "Link?"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3553 core/class.Playouts-Element.php:3832
+msgid "Url"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3565 core/class.Playouts-Element.php:3844
+#: core/class.Playouts-Element.php:4002 core/class.Playouts-Element.php:4464
+msgid "Alt Tag for Image ( Optional )"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3635
+msgid "Clients Slider"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3818
+msgid "Client Slide"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3911
+msgid "Image Stack"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3968
+msgid "Image Stack Item"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3977
+msgid "Top Position"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3979
+msgid "Set the top ( vertical ) position of the image."
+msgstr ""
+
+#: core/class.Playouts-Element.php:3987 core/class.Playouts-Element.php:5470
+msgid "Left Position"
+msgstr ""
+
+#: core/class.Playouts-Element.php:3989
+msgid "Set the left ( horizontal ) position of the image."
+msgstr ""
+
+#: core/class.Playouts-Element.php:3998
+msgid "Enable Shadow"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4020
+msgid "Appearance delay in milliseconds."
+msgstr ""
+
+#: core/class.Playouts-Element.php:4099
+msgid "Video Modal"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4105
+msgid "Video Url"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4106
+msgid "Only Youtube video support"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4112
+msgid "Select Video Screen Size"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4113
+msgid "Select the size of the video popup"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4124
+msgid "Select Button Size"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4135
+msgid "Autoplay Video"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4140 core/class.Playouts-Element.php:5274
+#: core/class.Playouts-Element.php:5831
+msgid "Color"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4146
+msgid "Background Color ( Optional )"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4152
+msgid "Text Label"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4234
+msgid "Image Slider"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4241
+msgid "Image Slides"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4254
+msgid "Slides Spacing"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4255
+msgid "Set the space between the slides."
+msgstr ""
+
+#: core/class.Playouts-Element.php:4264
+msgid "Image Thumbnail Size"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4274
+msgid "Lazy Image Load"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4275
+msgid "It will load the images only when needed."
+msgstr ""
+
+#: core/class.Playouts-Element.php:4279
+msgid "Free Scroll"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4280
+msgid ""
+"Enables content to be freely scrolled without aligning cells to an end "
+"position."
+msgstr ""
+
+#: core/class.Playouts-Element.php:4341
+msgid "Enable this options if you use a dark background."
+msgstr ""
+
+#: core/class.Playouts-Element.php:4454
+msgid "Image Slide"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4537
+msgid "Animated Text"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4544
+msgid "Text Lines"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4545
+msgid "You can add as many text lines as you need, just click the plus icon."
+msgstr ""
+
+#: core/class.Playouts-Element.php:4548
+msgid "Select Title Tag"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4581
+msgid "Line Height"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4609 core/class.Playouts-Element.php:4845
+msgid "Animation Delay Between Text Lines"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4686
+msgid "Animated Text Line"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4693
+msgid "Text line goes here"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4747
+msgid "Heading Title"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4755
+msgid "This is a title"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4764
+msgid "Top Title"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4798
+msgid "Heading Font Size"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4807
+msgid "Content Font Size"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4816
+msgid "Top Font Size"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4930
+msgid "Gradient Text"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4938
+msgid "This is a text with gradient"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4955
+msgid "Text Color From"
+msgstr ""
+
+#: core/class.Playouts-Element.php:4961
+msgid "Text Color To"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5070
+msgid "Notion Box"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5077
+msgid "Top Text ( Optional )"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5082
+msgid "This is a notion box"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5086
+msgid "Sub Text ( Optional )"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5122
+msgid "Bold Title Text"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5130
+msgid "Point to Link?"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5156
+msgid "Scale Image on Hover?"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5162
+msgid "Enable Overlay?"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5259
+msgid "Image Comparison"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5265
+msgid "Left Image"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5269
+msgid "Right Image"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5277
+msgid "Direction"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5286
+msgid "Offset Position"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5288
+msgid "How much of the before image is visible when the page loads"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5356 core/class.Playouts-Element.php:5363
+msgid "Image Hotspots"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5371
+msgid "Hotspot Background Color"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5375
+msgid "Box Background Color"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5379
+msgid "Box Text Color"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5383
+msgid "Enable Pulse Animation"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5455
+msgid "Image Hotspot"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5462
+msgid "Title goes here"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5467
+msgid "Text goes here"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5479
+msgid "Right Position"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5553
+msgid "Pricing Tables"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5560
+msgid "Pricing Columns"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5561
+msgid "You can add as many columns as you need, just click the plus icon."
+msgstr ""
+
+#: core/class.Playouts-Element.php:5565
+msgid "Table Vertical Alignment"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5633
+msgid "Pricing Column"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5639
+msgid "Top Title ( Optional )"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5640
+msgid "Top title goes here"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5644
+msgid "Second Top Title ( Optional )"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5648
+msgid "Price"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5649
+msgid "$10"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5653
+msgid "Bottom Title ( Optional )"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5654
+msgid "Bottom title goes here"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5660
+msgid "First row goes here"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5661
+msgid "Another row mate"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5662
+msgid "Last one"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5670
+msgid "Button Label"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5675
+msgid "Button Link"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5680
+msgid "Button New Tab?"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5681
+msgid "Opens the button link in a new tab of your browser."
+msgstr ""
+
+#: core/class.Playouts-Element.php:5684 core/class.Playouts-Element.php:5921
+msgid "Main Color"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5689
+msgid "Secondary Color"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5710
+msgid "Focus This Column?"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5711
+msgid "Make this column more visible."
+msgstr ""
+
+#: core/class.Playouts-Element.php:5714
+msgid "Focus Color"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5797
+msgid "Number Counter"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5804
+msgid "Number"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5820
+msgid "Duration"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5822
+msgid "Animation duration in seconds."
+msgstr ""
+
+#: core/class.Playouts-Element.php:5892 core/class.Playouts-Element.php:5898
+#: core/class.Playouts-Option-Type.php:613
+msgid "Icon"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5904
+msgid "Text ( Optional )"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5916
+msgid "Bold Icon?"
+msgstr ""
+
+#: core/class.Playouts-Element.php:5927
+msgid "Secondary Color ( Optional )"
+msgstr ""
+
+#: core/class.Playouts-Element.php:6045
+msgid "Google Map"
+msgstr ""
+
+#: core/class.Playouts-Element.php:6052
+msgid "Map Pins"
+msgstr ""
+
+#: core/class.Playouts-Element.php:6053
+msgid "You can add as many map pins as you need, just click the plus icon."
+msgstr ""
+
+#: core/class.Playouts-Element.php:6056
+msgid "Map Zoom"
+msgstr ""
+
+#: core/class.Playouts-Element.php:6057
+msgid "This scale represents the zoom of the map."
+msgstr ""
+
+#: core/class.Playouts-Element.php:6065
+msgid "Map Height"
+msgstr ""
+
+#: core/class.Playouts-Element.php:6074
+msgid "Enable Map Zoom Controls"
+msgstr ""
+
+#: core/class.Playouts-Element.php:6078
+msgid "Set Custom Map Center"
+msgstr ""
+
+#: core/class.Playouts-Element.php:6083 core/class.Playouts-Element.php:6200
+msgid "Latitude"
+msgstr ""
+
+#: core/class.Playouts-Element.php:6089 core/class.Playouts-Element.php:6205
+msgid "Longitude"
+msgstr ""
+
+#: core/class.Playouts-Element.php:6100
+msgid "Map Styles ( Advanced )"
+msgstr ""
+
+#: core/class.Playouts-Element.php:6101
+msgid ""
+"Customize colors, roads, labels, and more. Use Javascript array only. Here "
+"you can find pre-defined map styles: <a href='https://snazzymaps.com' "
+"target='_blank' rel='nofollow'>https://snazzymaps.com</a>"
+msgstr ""
+
+#: core/class.Playouts-Element.php:6157
+msgid ""
+"Please add a Google Map Api Key to display your map correctly. You can do "
+"this by the plugin's settings panel."
+msgstr ""
+
+#: core/class.Playouts-Element.php:6189
+msgid "Google Pin"
+msgstr ""
+
+#: core/class.Playouts-Element.php:6196
+msgid "Out Location"
+msgstr ""
+
+#: core/class.Playouts-Element.php:6209
+msgid "Pin Image ( Optional )"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:142
+#, php-format
+msgid "Option type \"%1$s\" doesn't exists."
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:191
+msgid "Dummy"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:208
+msgid "Heading"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:231
+msgid "Textfield"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:255
+msgid "Textarea"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:277
+msgid "Editor"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:300
+msgid "Visual"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:318
+msgid "Base 64"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:341
+msgid "Color Picker"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:363
+msgid "True False"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:391
+msgid "Radio Button"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:421
+msgid "Radio Image Button"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:456
+msgid "Select"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:498
+msgid "Upload Image"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:517
+msgid "File"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:529
+msgid "Select File"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:544
+msgid "Number Slider"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:581
+msgid "Sidebars"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:642
+msgid "Taxonomy"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:691
+msgid "Repeater"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:727
+msgid "Remove Columns"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:728
+msgid "Add New Columns"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:742
+msgid "Thumbnail Sizes"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:777
+msgid "Google Font"
+msgstr ""
+
+#: core/class.Playouts-Option-Type.php:815
+msgid "Select Font"
+msgstr ""
+
+#: core/class.Playouts-Public-Map.php:39
+msgid "Days"
+msgstr ""
+
+#: core/class.Playouts-Public-Map.php:40
+msgid "Hours"
+msgstr ""
+
+#: core/class.Playouts-Public-Map.php:41
+msgid "Minutes"
+msgstr ""
+
+#: core/class.Playouts-Public-Map.php:42
+msgid "Seconds"
+msgstr ""
+
+#: core/class.Playouts-Public.php:268
+msgid "Video not supported!"
+msgstr ""
+
+#: inc/options_fonts.php:6
+msgid "Container Font"
+msgstr ""
+
+#: inc/options_fonts.php:8
+msgid ""
+"Select the main font of the container. The rest of elements will inherit it."
+msgstr ""
+
+#: inc/options_fonts.php:10
+msgid ""
+"It was going to be a lonely trip back. Almost before we knew it, we had left "
+"the ground."
+msgstr ""
+
+#: inc/options_fonts.php:15
+msgid "Headings Font"
+msgstr ""
+
+#: inc/options_fonts.php:17
+msgid "Select the font for all the titles."
+msgstr ""
+
+#: inc/options_fonts.php:19
+msgid "I watched the storm, so beautiful yet terrific."
+msgstr ""
+
+#: inc/options_general.php:7
+msgid "Google Map Api Key"
+msgstr ""
+
+#: inc/options_general.php:8
+#, php-format
+msgid ""
+"Add Google Map Api Key to display your maps correctly. You can get the key "
+"from %s."
+msgstr ""
+
+#: inc/options_general.php:8
+msgid "here"
+msgstr ""
+
+#: inc/options_general.php:13
+msgid "Show Content Editor"
+msgstr ""
+
+#: inc/options_general.php:14
+msgid "Show the WordPress Content Editor while Peenapo Layouts is active"
+msgstr ""
+
+#: inc/options_general.php:19
+msgid "Select Post Types"
+msgstr ""
+
+#: inc/options_general.php:20
+msgid "Select the post types where to render the plugin"
+msgstr ""
+
+#: templates/admin/confirm.php:3 templates/admin/modules.php:11
+#: templates/admin/modules.php:23 templates/admin/save-layout.php:3
+#: templates/admin/save-layout.php:34
+msgid "Save Layout"
+msgstr ""
+
+#: templates/admin/confirm.php:4 templates/admin/custom-css-panel.php:6
+#: templates/admin/custom-css-panel.php:18 templates/admin/modal.php:13
+#: templates/admin/save-layout.php:4 templates/admin/save-layout.php:33
+#: templates/admin/settings-panel.php:5 templates/admin/settings-panel.php:10
+msgid "Close"
+msgstr ""
+
+#: templates/admin/confirm.php:16
+msgid "No"
+msgstr ""
+
+#: templates/admin/confirm.php:17
+msgid "Yes"
+msgstr ""
+
+#: templates/admin/custom-css-panel.php:5
+msgid "Custom CSS"
+msgstr ""
+
+#: templates/admin/custom-css-panel.php:12
+msgid "Add additional CSS code, for the current post."
+msgstr ""
+
+#: templates/admin/custom-css-panel.php:19
+msgid "Save Custom CSS"
+msgstr ""
+
+#: templates/admin/editor-not-supported.php:2
+#, php-format
+msgid ""
+"Peenapo Layouts required the WordPress Editor Support, and this post type "
+"\"%s\" doesn't support it."
+msgstr ""
+
+#: templates/admin/header.php:5
+msgid "Add New Module"
+msgstr ""
+
+#: templates/admin/header.php:7
+msgid "Add Custom CSS Code"
+msgstr ""
+
+#: templates/admin/header.php:9
+msgid "Save Content as Custom Layout"
+msgstr ""
+
+#: templates/admin/header.php:10
+msgid "Empty Content"
+msgstr ""
+
+#: templates/admin/modal-favorites.php:3
+msgid "My Favorites"
+msgstr ""
+
+#: templates/admin/modal-favorites.php:4
+msgid "Add your favorite modules here for fast access"
+msgstr ""
+
+#: templates/admin/modal-favorites.php:6 templates/admin/modal-favorites.php:8
+msgid "Manage"
+msgstr ""
+
+#: templates/admin/modal-favorites.php:7
+msgid "Save"
+msgstr ""
+
+#: templates/admin/modal.php:7
+msgid "Add Modules"
+msgstr ""
+
+#: templates/admin/modules.php:5 templates/admin/modules.php:20
+#: templates/admin/modules.php:121
+msgid "Move"
+msgstr ""
+
+#: templates/admin/modules.php:6 templates/admin/modules.php:21
+#: templates/admin/modules.php:122
+msgid "Edit"
+msgstr ""
+
+#: templates/admin/modules.php:7
+msgid "Edit Columns"
+msgstr ""
+
+#: templates/admin/modules.php:8
+msgid "Add New Column"
+msgstr ""
+
+#: templates/admin/modules.php:9 templates/admin/modules.php:22
+#: templates/admin/modules.php:123
+msgid "Duplicate"
+msgstr ""
+
+#: templates/admin/modules.php:10
+msgid "Visibility"
+msgstr ""
+
+#: templates/admin/modules.php:12 templates/admin/modules.php:24
+#: templates/admin/modules.php:124
+msgid "Delete"
+msgstr ""
+
+#: templates/admin/save-layout.php:7
+msgid ""
+"Give it some name and save this layout so you can use it later in your "
+"project"
+msgstr ""
+
+#: templates/admin/save-layout.php:13
+msgid "Layout Name"
+msgstr ""
+
+#: templates/admin/save-layout.php:20
+msgid "Select Category"
+msgstr ""
+
+#: templates/admin/save-layout.php:24
+msgid ""
+"Select a category ( optional ) for this template so you can find it easier."
+msgstr ""
+
+#: templates/admin/save-layout.php:27
+msgid "Add new category"
+msgstr ""
+
+#: templates/admin/settings-panel.php:11
+msgid "Save Options"
+msgstr ""
+
+#: templates/admin/settings/header.php:2
+msgid "Peenapo Layouts Settings"
+msgstr ""
+
+#: templates/admin/settings/option-tabs/fonts.php:33
+#: templates/admin/settings/option-tabs/general.php:27
+msgid "Save Settings"
+msgstr ""
+
+#: templates/admin/settings/option-tabs/portability.php:4
+msgid "Portability"
+msgstr ""
+
+#: templates/admin/switch.php:3
+msgid "Disable Peenapo Layouts"
+msgstr ""
+
+#: templates/admin/switch.php:4
+msgid "Enable Peenapo Layouts"
+msgstr ""
+
+#: templates/admin/welcome.php:4
+msgid "Add New Element"
+msgstr ""
+
+#: templates/admin/welcome.php:5
+msgid "Explore Layouts"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://peenapo.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Peenapo Layouts is a drag &amp; drop back-end, shortcode based layout "
+"builder for WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Peenapo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.peenapo.com"
+msgstr ""
